@@ -1,0 +1,24 @@
+#tmenu {
+    float: left;
+    width: 200px;
+    position: fixed;
+    float: left;
+    
+  }
+  main {
+    padding-left: 240px;
+
+  }
+  .amenu {
+    background-color: #CCFFCC;
+    color: #006600;
+    font-weight: bold;
+    display: block;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .amenu:hover {
+    background-color: #FFCCFF;
+    color: #FF0000;
+  }
